@@ -1,33 +1,46 @@
-header {
+
+header{
     text-align: center;
     font-family: arial;
     
 }
- #news {
+ #news{
      text-align: left;
 
  }
-.firts {
+.firts{
 
 }
 
-.second {
+.second{
     text-emphasis-color: white;
     text-align: center;
     background-color: rgb(202, 21, 21);
 }
 
-h1 {
+h1{
     text-align: left;
     font-family: arial;
     font-size: xx-large;
     color: grey;
 }
 
-.jon {
+.jon{
     color: red;
 }
 
 #unic{
     color: grey;
+
+}
+
+.buttonred{
+    border-color: red;
+
+}
+
+.black{
+    color: black;
+    font-weight: 400;
+
 }
