@@ -1,2 +1,33 @@
-body {
-    background-color: lawngreen;
+header {
+    text-align: center;
+    font-family: arial;
+    
+}
+ #news {
+     text-align: left;
+
+ }
+.firts {
+
+}
+
+.second {
+    text-emphasis-color: white;
+    text-align: center;
+    background-color: rgb(202, 21, 21);
+}
+
+h1 {
+    text-align: left;
+    font-family: arial;
+    font-size: xx-large;
+    color: grey;
+}
+
+.jon {
+    color: red;
+}
+
+#unic{
+    color: grey;
+}
