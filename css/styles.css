@@ -1,9 +1,10 @@
 
 header{
     text-align: center;
-    font-family: arial;
+    font-family: Arial, Helvetica, sans-serif;
     
 }
+
  #news{
      text-align: left;
 
@@ -20,7 +21,7 @@ header{
 
 h1{
     text-align: left;
-    font-family: arial;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: xx-large;
     color: grey;
 }
@@ -40,7 +41,26 @@ h1{
 }
 
 .black{
+    font-weight: bold;
     color: black;
-    font-weight: 400;
 
+}
+.darkgray{
+    color: rgb(43, 43, 43);
+}
+
+.under{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(49, 49, 49);
+    color: white;
+}
+
+footer{
+    color: white;
+    background-color: rgb(41, 41, 41);
+    
+}
+
+.white{
+    color: white;
 }
